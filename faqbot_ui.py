@@ -22,7 +22,7 @@ vectordb = Chroma(
 
 chat_model = ChatOllama(model="llava:7b",
                      base_url="http://127.0.0.1:11434",
-                     temperature=0.2,
+                     temperature=0,
                      num_predict=512
                      )
 
