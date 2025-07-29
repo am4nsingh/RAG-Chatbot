@@ -7,3 +7,4 @@ Directory Structure:
 │ ├── Design system.pdf
 │ ├── GENERAL.pdf
 │ └── U4XG.pdf
+├── MultiModal.ipynb # change the hardcoded pdf file path
